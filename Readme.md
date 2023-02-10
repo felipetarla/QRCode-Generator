@@ -1,0 +1,1 @@
+## Gerador de QR Code utilizando HTML, CSS e JavaScript
